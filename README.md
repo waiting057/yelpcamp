@@ -1,10 +1,6 @@
 # yelpcamp
 
-# Landing Page
-![](https://media.giphy.com/media/jqHtbIg5Ed7bGqnI84/giphy.gif)
-* 使用css中的animation、透明化與時間差製作背景圖片的轉場效果
-# 主畫面
-![](https://i.imgur.com/p2ExbgI.jpg)
+
 ## 此網站主要功能:
 * 登入系統(登入/登出/註冊)
 * 發文系統
@@ -35,6 +31,12 @@
 |Update  | /blog/:id        | PUT       | Update a particular blog, then redirect somewhere    | Blog.findByIdAndUpdate()
 |Destroy | /blog/:id        | DELETE    | Delete a particular blog, then redirect somewhere    | Blog.findByIdAndRemove()
 
+
+# Landing Page
+![](https://media.giphy.com/media/jqHtbIg5Ed7bGqnI84/giphy.gif)
+* 使用css中的animation、透明化與時間差製作背景圖片的轉場效果
+# 主畫面
+![](https://i.imgur.com/p2ExbgI.jpg)
 # 登入系統畫面
 * 網頁右上方的nav bar內容會對應使用者的登入狀態來進行切換
 ![](https://i.imgur.com/nv8DbiK.png)
