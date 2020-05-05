@@ -2,7 +2,7 @@
 
 # Landing Page
 ![](https://media.giphy.com/media/jqHtbIg5Ed7bGqnI84/giphy.gif)
-*使用css中的animation、透明化與時間差製作背景圖片的轉場效果
+* 使用css中的animation、透明化與時間差製作背景圖片的轉場效果
 # 主畫面
 ![](https://i.imgur.com/p2ExbgI.jpg)
 ## 此網站主要功能:
